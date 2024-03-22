@@ -1,7 +1,0 @@
-{
-    "host": "flaskpostgres-abc123.postgres.database.azure.com",
-    "user": "Vuki",
-    "port": "5432",
-    "database": "postgres",
-    "password": "HGSS123567!"
-}
